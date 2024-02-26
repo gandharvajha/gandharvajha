@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi👋, I'm GANDHARVA KUMAR JHA</h2>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlwZ2FieTl5dThlOHFtdGIydXA0dXhwdzYwN2lmNGZyMWZjazIwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlwZ2FieTl5dThlOHFtdGIydXA0dXhwdzYwN2lmNGZyMWZjazIwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="50">
 I'm a Full Stack Developer proficient in HTML, CSS, JavaScript, Bootstrap, React.js, PHP, and MySQL. My soft skills include effective communication, problem-solving, critical thinking, teamwork, and leadership.
 
 - 💡I have a passion for exploring new technologies and crafting software solutions and quick hacks. 
@@ -18,11 +18,11 @@ I'm a Full Stack Developer proficient in HTML, CSS, JavaScript, Bootstrap, React
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-
+![php](https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/> &nbsp;
 
 
