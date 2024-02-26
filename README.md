@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi👋, I'm GANDHARVA KUMAR JHA</h2>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlwZ2FieTl5dThlOHFtdGIydXA0dXhwdzYwN2lmNGZyMWZjazIwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlwZ2FieTl5dThlOHFtdGIydXA0dXhwdzYwN2lmNGZyMWZjazIwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100">
 I'm a Full Stack Developer proficient in HTML, CSS, JavaScript, Bootstrap, React.js, PHP, and MySQL. My soft skills include effective communication, problem-solving, critical thinking, teamwork, and leadership.
 
 - 💡I have a passion for exploring new technologies and crafting software solutions and quick hacks. 
